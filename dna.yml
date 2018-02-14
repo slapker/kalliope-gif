@@ -1,0 +1,12 @@
+---
+  name: "kalliope_gif"
+  type: "neuron"
+  author: "slapker"
+
+  kalliope_supported_version:
+    - 0.5
+
+  tags:
+    - "kalliope_gif"
+    - "gif"
+    - "webcam"

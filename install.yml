@@ -1,0 +1,14 @@
+---
+- name: Kalliope GIF
+  hosts: localhost
+  gather_facts: no
+  connection: local
+  become: true
+
+  tasks:
+    - name: "Install pygame dependencies"
+      pip:
+        name: pygame
+    - name: "Install imageio lib dependencies"
+      pip:
+        name: imageio
