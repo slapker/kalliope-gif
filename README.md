@@ -65,14 +65,3 @@ Play a playlist by giving its name to kalliope
             - "The Gif has been sent to Telegram"
 
 ```
-
-
-## Template example
-
-
-
-see more example in the [sample brain file](https://github.com/bacardi55/kalliope-mpd/blob/master/samples/brain.yml)
-
-* [a post about this neuron](http://bacardi55.org/2017/02/08/kalliope-mpd-neuron.html)
-* [my posts about kalliope](http://bacardi55.org/kalliope.html)
-
