@@ -1,4 +1,4 @@
-# kalliope_Gif
+# kalliope-gif
 
 A neuron to make funny Gif with Kalliope
 
@@ -10,7 +10,7 @@ Make kalliope creating a Gif with your Webcam !
 ## Installation
 
   ```
-  kalliope install --git-url https://github.com/slapker/kalliope_gif.git
+  kalliope install --git-url https://github.com/slapker/kalliope-gif.git
   ```
 
 
