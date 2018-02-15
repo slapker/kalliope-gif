@@ -33,8 +33,6 @@ Make kalliope creating a Gif with your Webcam !
 
 ## Synapses example
 
-Play a playlist by giving its name to kalliope
-
 ```yaml
   - name: "Make-gif"
     signals:
